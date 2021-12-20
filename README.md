@@ -24,8 +24,6 @@ Please see [CHANGELOG](CHANGELOG.md) for more information on what has changed re
 ## Contributing & Pull Requests
 Feel free to send pull requests.
 
-Please see [CONTRIBUTING](.github/CONTRIBUTING.md) for details.
-
 ## Credits
 
 - [Rafael Villa Verde](https://github.com/hafael)
@@ -33,4 +31,4 @@ Please see [CONTRIBUTING](.github/CONTRIBUTING.md) for details.
 
 ## License
 
-The MIT License (MIT). Please see [License File](LICENSE.md) for more information.
+The MIT License (MIT). Please see [License File](LICENSE) for more information.
